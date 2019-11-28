@@ -166,7 +166,7 @@ const MenuOverlay = props => {
               <MenuItem
                 onClick={() => {
                   window.location.href =
-                    "http://github.com/eemebarbe/react-firebase-essentials";
+                    "http://github.com/metalentco/react-firebase-essentials";
                 }}
               >
                 Github
